@@ -7,3 +7,6 @@ For this Web Application ,   We have used a historical dataset on the modern Oly
           "Visualized the success of countries or athletes based on the number of medals won."
 In this Medal Predictor, We have used two Maching Learning algorithms and a Artificial Neural Network (Deep Learning) namely:"
 model = ["Random Forest Classifier","Logistic Regression","Neutral Network"]
+The Technologies we use for this project are:
+Pycharm 
+Streamlit 
